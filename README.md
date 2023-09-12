@@ -9,7 +9,7 @@ I began my career with a focus on ministry and aspirations of entering academia.
 I am poised to leverage my background, work ethic, and data analyst skills to uncover valuable insights. I am passionate about data's potential to drive informed decisions and am actively seeking a role where I can explore datasets with curiosity, collaborate with fellow analysts, and deliver high-quality analyses.
 
 # Projects
-### 1. [Exploring Global Happiness](https://public.tableau.com/app/profile/andrew5395/viz/WorldHappinessReport_16936795111390/Story1)
+### 1. [Exploring Global Happiness](https://github.com/A-Ingrassia/Exploring-Global-Happiness)
 - Cleaned, integrated, and analyzed nine years of World Happiness Report data to uncover trends and insights
 - Employed Principal Component Analysis (PCA) to identify and rank key variables influencing happiness scores
 - Developed and trained a linear regression model for accurate happiness score predictions
