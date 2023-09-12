@@ -22,6 +22,7 @@ I am poised to leverage my background, work ethic, and data analyst skills to un
 - Discovered differences in user ordering habits based on various characteristics (such as region, income, family status, loyalty status, etc.)
 
 ### 3. [Rockbuster Stealth Analysis](https://github.com/A-Ingrassia/Rockbuster-SQL)
+- This project showcases my understanding of SQL
 - Conducted data analysis for a fictional movie rental company’s online video service launch
 - Utilized SQL for complex queries, identifying top revenue-generating factors for strategic decision-making
 - Used the results of my analysis to make recommendations to the BI department
