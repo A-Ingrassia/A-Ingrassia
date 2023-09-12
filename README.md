@@ -10,11 +10,12 @@ I am poised to leverage my background, work ethic, and data analyst skills to un
 
 # Projects
 ### 1. [Exploring Global Happiness](https://github.com/A-Ingrassia/Exploring-Global-Happiness)
+- This project is currently the best representation of my abilities as a data analyst
 - Cleaned, integrated, and analyzed nine years of World Happiness Report data to uncover trends and insights
 - Employed Principal Component Analysis (PCA) to identify and rank key variables influencing happiness scores
 - Developed and trained a linear regression model for accurate happiness score predictions
 - Discovered that "Freedom" is the most impactful variable measured by the World Happiness Report, accounting for 43% of the variance
-  
+
 ### 2. [Instacart Basket Analysis](https://github.com/A-Ingrassia/Instacart-Python)
 - Cleaned and merged four data sets associated with orders, products, departments, and customers
 - Answered questions from marketing and sales teams (such as busiest days of the week, busiest hours of the day, most loyal customers, etc.)
