@@ -1,6 +1,6 @@
 # About Me
 
-[Resume Download](https://github.com/A-Ingrassia/A-Ingrassia/blob/main/Ingrassia%20Andrew%20Resume.pdf)
+[Resume Download](https://github.com/A-Ingrassia/A-Ingrassia/blob/main/Andrew%20Ingrassia%20Resume.pdf)
 
 Hello, my name is Andrew Ingrassia, and I'm excited to share my journey with you. My path has been a winding one, taking me from a background in ministry and entrepreneurship to a newfound passion for data analysis. This transition, while unconventional, has ignited my enthusiasm for unraveling insights from complex datasets and making data-driven decisions. Join me as I explore this fascinating world of data and share my experiences, projects, and insights.
 
