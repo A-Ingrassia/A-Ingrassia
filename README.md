@@ -10,7 +10,7 @@ I am poised to leverage my background, work ethic, and data analyst skills to un
 
 # Projects
 ### 1. [Exploring Global Happiness](https://github.com/A-Ingrassia/Exploring-Global-Happiness)
-- This project is currently the best representation of my abilities as a data analyst
+- This independent project is currently the best representation of my abilities as a data analyst
 - Cleaned, integrated, and analyzed nine years of World Happiness Report data to uncover trends and insights
 - Employed Principal Component Analysis (PCA) to identify and rank key variables influencing happiness scores
 - Developed and trained a linear regression model for accurate happiness score predictions
