@@ -4,7 +4,7 @@
 
 Hello, my name is Andrew Ingrassia.
 
-I’m currently a Billing Analyst at Spectrum, where I focus on managing and updating their internal billing system. My primary responsibilities involve extracting, modifying, and re-importing data to ensure it integrates smoothly into the system. I also use SQL to validate changes and maintain data accuracy across the system.
+I currently work as a Billing Analyst at Spectrum, where I focus on managing and updating their internal billing system. My primary responsibilities involve extracting, modifying, and re-importing data to ensure it integrates smoothly into the system. I also use SQL to validate changes and maintain data accuracy across the system.
 
 With a strong background in data management, I am looking to expand my expertise in data analysis and process optimization. I thrive in fast-paced environments, working under tight deadlines while collaborating with cross-functional teams to solve complex challenges and improve business processes.
 
