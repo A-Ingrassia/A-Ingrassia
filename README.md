@@ -23,5 +23,14 @@ I'm now focused on advancing into a Data Analyst or Billing Systems Analyst role
 - Data stored locally and synced via the user's own cloud, prioritizing data ownership
 - Made independent UI/UX design decisions after evaluating competitor apps; built using Claude Code
 
+<details>
+<summary>Screenshots</summary>
+
+![Uplift log screen](Uplift/Log%20Screen.PNG)
+![Uplift data screen](Uplift/Data%20Display.PNG)
+![Uplift calendar screen](Uplift/Calendar.PNG)
+
+</details>
+
 ### 3. Risk-Dice-GUI
 - A multi-function GUI application designed to replace physical dice when playing the board game "Risk," written independently in Python before AI-assisted coding tools were in common use
