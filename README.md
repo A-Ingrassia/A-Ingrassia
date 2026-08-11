@@ -32,5 +32,5 @@ I'm now focused on advancing into a Data Analyst or Billing Systems Analyst role
 
   </details>
 
-### 3. Risk-Dice-GUI
+### 3. [Risk-Dice-GUI](https://github.com/A-Ingrassia/Risk-Dice-GUI)
 - A multi-function GUI application designed to replace physical dice when playing the board game "Risk," written independently in Python before AI-assisted coding tools were in common use
