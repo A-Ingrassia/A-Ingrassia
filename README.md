@@ -1,6 +1,6 @@
 # About Me
 
-[Resume Download](https://github.com/A-Ingrassia/A-Ingrassia/blob/main/Andrew%20Ingrassia%20Resume.pdf)
+[Resume Download](https://github.com/A-Ingrassia/A-Ingrassia/blob/main/Andrew_Ingrassia_Resume.pdf)
 
 Hello, my name is Andrew Ingrassia.
 
