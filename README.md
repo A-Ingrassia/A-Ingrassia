@@ -26,7 +26,6 @@ I'm now focused on advancing into a Data Analyst or Billing Systems Analyst role
   <details>
   <summary>Screenshots</summary>
 
-  <img src="Uplift/Logo.PNG" alt="Uplift log screen" width="250">
   <img src="Uplift/Log_Screen.PNG" alt="Uplift log screen" width="250">
   <img src="Uplift/Data_Display.PNG" alt="Uplift data screen" width="250">
   <img src="Uplift/Calendar.PNG" alt="Uplift calendar screen" width="250">
