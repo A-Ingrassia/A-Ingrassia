@@ -23,14 +23,15 @@ I'm now focused on advancing into a Data Analyst or Billing Systems Analyst role
 - Data stored locally and synced via the user's own cloud, prioritizing data ownership
 - Made independent UI/UX design decisions after evaluating competitor apps; built using Claude Code
 
-<details>
-<summary>Screenshots</summary>
+  <details>
+  <summary>Screenshots</summary>
 
-![Uplift log screen](Uplift/Log_Screen.PNG)
-![Uplift data screen](Uplift/Data_Display.PNG)
-![Uplift calendar screen](Uplift/Calendar.PNG)
+  <img src="Uplift/Logo.PNG" alt="Uplift log screen" width="250">
+  <img src="Uplift/Log_Screen.PNG" alt="Uplift log screen" width="250">
+  <img src="Uplift/Data_Display.PNG" alt="Uplift data screen" width="250">
+  <img src="Uplift/Calendar.PNG" alt="Uplift calendar screen" width="250">
 
-</details>
+  </details>
 
 ### 3. Risk-Dice-GUI
 - A multi-function GUI application designed to replace physical dice when playing the board game "Risk," written independently in Python before AI-assisted coding tools were in common use
