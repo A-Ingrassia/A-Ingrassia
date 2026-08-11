@@ -26,8 +26,8 @@ I'm now focused on advancing into a Data Analyst or Billing Systems Analyst role
 <details>
 <summary>Screenshots</summary>
 
-![Uplift log screen](Uplift/Log%20Screen.PNG)
-![Uplift data screen](Uplift/Data%20Display.PNG)
+![Uplift log screen](Uplift/Log_Screen.PNG)
+![Uplift data screen](Uplift/Data_Display.PNG)
 ![Uplift calendar screen](Uplift/Calendar.PNG)
 
 </details>
