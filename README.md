@@ -13,6 +13,7 @@ I'm a U.S. Army National Guard veteran (infantry and combat medic, six years of 
 I'm now focused on advancing into a Data Analyst or Billing Systems Analyst role where I can keep building on this foundation.
 
 # Projects
+
 ### 1. Billing Process Automation & Dashboard (proprietary/internal)
 - Identified and addressed a gap in an undocumented, high-context billing process — no prior SOPs, no automation
 - Directed the build of a project-tracking dashboard and a suite of 4 Python-based tools using AI-assisted development, automating manual steps including SQL query execution for recurring tasks
