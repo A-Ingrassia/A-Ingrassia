@@ -19,7 +19,7 @@ I'm now focused on advancing into a Data Analyst or Billing Systems Analyst role
 - Authored the first written documentation and SOPs for the workflow
 
 ### 2. Uplift
-- A workout tracker built around progressive overload — log workouts, track progress via visualized trends, integrated calendar and timers
+- A mobile workout app for iOS and Android designed to track progressive overload — log workouts, track progress via visualized trends, integrated calendar and timers
 - Data stored locally and synced via the user's own cloud, prioritizing data ownership
 - Made independent UI/UX design decisions after evaluating competitor apps; built using Claude Code
 
