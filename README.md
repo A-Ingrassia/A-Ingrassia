@@ -4,11 +4,11 @@
 
 Hello, my name is Andrew Ingrassia.
 
-I currently work as a Billing Solutions Analyst at Charter Communications, where I configure and update billing systems, query and compare datasets in Snowflake, and interact with billing databases. I execute and adapt SQL queries to extract and transform billing data in support of system updates and field operations, and conduct peer reviews to maintain accuracy under production deadlines.
+I currently work as a Billing Solutions Analyst at Charter Communications, where I configure and update billing systems, query and compare datasets in Snowflake, and work directly with billing databases. I write, execute, and adapt SQL queries to extract and transform billing data in support of system updates and field operations, and conduct peer reviews to maintain accuracy under production deadlines.
 
-My team's process had no documentation or automation tooling in place. I built a suite of automation tools and a project-tracking dashboard using AI-assisted development, and lobbied for my team to gain access to an agentic AI coding tool that made that work possible. Use of that tool has since spread to other teams on my floor.
+I inherited a largely undocumented, manual process and built a suite of automation tools and a project-tracking dashboard using AI-assisted development. I also advocated for my team to gain access to an agentic AI coding tool, which enabled me to develop these solutions more effectively. Use of the tool has since expanded to other teams on my floor.
 
-I'm a U.S. Army National Guard veteran (infantry and combat medic, six years of service) and previously ran an independent painting business for a decade before moving into data work.
+I'm a U.S. Army National Guard veteran with six years of service as an infantryman and combat medic. Before moving into data work, I spent a decade running an independent painting business.
 
 # Projects
 
