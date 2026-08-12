@@ -4,7 +4,7 @@
 
 Hello, my name is Andrew Ingrassia.
 
-I'm a Billing Solutions Analyst at Charter Communications, where I configure and update billing systems, query and compare datasets in Snowflake, and interact with legacy billing databases. I execute and adapt SQL queries to extract and transform billing data in support of system updates and field operations, and conduct peer reviews to maintain accuracy under production deadlines.
+I currently work as a Billing Solutions Analyst at Charter Communications, where I configure and update billing systems, query and compare datasets in Snowflake, and interact with billing databases. I execute and adapt SQL queries to extract and transform billing data in support of system updates and field operations, and conduct peer reviews to maintain accuracy under production deadlines.
 
 My team's process had no documentation or automation tooling in place. I built a suite of automation tools and a project-tracking dashboard using AI-assisted development, and lobbied for my team to gain access to an agentic AI coding tool that made that work possible. Use of that tool has since spread to other teams on my floor.
 
